@@ -4,6 +4,7 @@ Repositório destinado a compartilhar ferramentas que facilitaram a implementaç
 
 
 Como é feita a geração de classes XSD para a linguagem de programação C#:
+
 1 - Abrir cmd
 
 2 - Caminhar até a pasta(pode ser que a versão seja diferente [v10.0, netfx 4.8, etc~]):
